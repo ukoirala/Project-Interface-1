@@ -1,0 +1,21 @@
+<section>
+<p id="example" class ="example"> A color coding. </p>
+</section>
+
+section{
+font-family: avenir, sans-serif;
+font-size: 25px;
+color: blue;
+}
+{ 
+color: lightgreen;
+}
+p{ 
+color: purple;
+}
+.example{
+color: yellow;
+}
+section p {
+color: red;
+}

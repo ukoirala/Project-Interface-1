@@ -1,0 +1,22 @@
+/** 
+Create a Backpack object, populate some HTML to display its properties.
+*/
+ Const updateBackpack = (update) => {
+Let main = document.querySelector(main”);
+Main.innerHTML = markup(backpack);
+Console.info(update);
+};
+Const backpack = {
+Name: “Everyday Backpack”,
+Volume= 20;
+Color: “blue”,
+pocketNum: 10,
+strapLength: {
+left: 20,
+right: 20,
+},
+lidOpen: false,
+toggleLid: function (Lidstatus) {
+this.lidOpen = lidStatus;
+updateBachpack ( Lid status changed. ) ;
+},

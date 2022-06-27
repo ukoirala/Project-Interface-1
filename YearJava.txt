@@ -1,0 +1,9 @@
+// Here we are finding a leap year.
+ const number = prompt ("Enter a year ");
+if (number % year == )) {
+console.log("It is a leap year.")
+}
+else {
+console.log("It is not a leap year);
+}
+
